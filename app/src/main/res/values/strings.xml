@@ -1,0 +1,1097 @@
+<resources>
+    <string name="app_name">Rokter Khoje</string>
+
+    <string-array name="array_division">
+        <item>Select Your Division</item>
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Dhaka</item>
+        <item>Mymensingh</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+
+    </string-array>
+
+
+    <string-array name="array_district_barisal">
+        <item>Select Your District</item>
+
+        <item>Barguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Jhalokati</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_district_chittagong">
+        <item>Select Your District</item>
+
+        <item>Bandarban</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Cox Bazar</item>
+        <item>Feni</item>
+        <item>Khagrachhari</item>
+        <item>Lakshmipur</item>
+        <item>Noakhali</item>
+        <item>Rangamati</item>
+
+    </string-array>
+
+
+    <string-array name="array_district_dhaka">
+        <item>Select Your District</item>
+
+        <item>Dhaka</item>
+        <item>Faridpur</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Kishoreganj</item>
+        <item>Madaripur</item>
+        <item>Manikganj</item>
+        <item>Munshiganj</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Rajbari</item>
+        <item>Shariatpur</item>
+        <item>Tangail</item>
+
+    </string-array>
+
+
+    <string-array name="array_district_khulna">
+        <item>Select Your District</item>
+
+        <item>Bagerhat</item>
+        <item>Chuadanga</item>
+        <item>Jessore</item>
+        <item>Jhenaidah</item>
+        <item>Khulna</item>
+        <item>Kushtia</item>
+        <item>Magura</item>
+        <item>Meherpur</item>
+        <item>Narail</item>
+        <item>Satkhira</item>
+
+    </string-array>
+
+
+    <string-array name="array_district_mymensingh">
+        <item>Select Your District</item>
+
+        <item>Jamalpur</item>
+        <item>Mymensingh</item>
+        <item>Netrakona</item>
+        <item>Sherpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_district_rajshahi">
+        <item>Select Your District</item>
+
+        <item>Bogra</item>
+        <item>Chapainawabganj</item>
+        <item>Joypurhat</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sirajganj</item>
+    </string-array>
+
+
+    <string-array name="array_district_rangpur">
+        <item>Select Your District</item>
+
+        <item>Dinajpur</item>
+        <item>Gaibandha</item>
+        <item>Kurigram</item>
+        <item>Lalmonirhat</item>
+        <item>Nilphamari</item>
+        <item>Panchagarh</item>
+        <item>Rangpur</item>
+        <item>Thakurgaon</item>
+    </string-array>
+
+
+    <string-array name="array_district_sylhet">
+        <item>Select Your District</item>
+
+        <item>Habiganj</item>
+        <item>Moulvibazar</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+
+    </string-array>
+
+
+    <!--upazilla of all district-->
+
+
+    <string-array name="array_upazila_barguna">
+        <item>Select Your upazilla</item>
+
+        <item>Amtali</item>
+        <item>Bamna</item>
+        <item>Barguna Sadar</item>
+        <item>Betagi</item>
+        <item>Patharghata</item>
+        <item>Taltali</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_barisal">
+        <item>Select Your upazilla</item>
+
+        <item>Agailjhara</item>
+        <item>Babuganj</item>
+        <item>Bakerganj</item>
+        <item>Banaripara</item>
+        <item>Gaurnadi</item>
+        <item>Hizla</item>
+        <item>Barishal Sadar</item>
+        <item>Mehendiganj</item>
+        <item>Muladi</item>
+        <item>Wazirpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_bhola">
+        <item>Select Your upazilla</item>
+
+        <item>hola Sadar</item>
+        <item>Burhanuddin</item>
+        <item>Char Fasson</item>
+        <item>Daulatkhan</item>
+        <item>Lalmohan</item>
+        <item>Manpura</item>
+        <item>Tazumuddin</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_jhalokhati">
+        <item>Select Your upazilla</item>
+
+        <item>Jhalokati Sadar</item>
+        <item>Kathalia</item>
+        <item>Nalchity</item>
+        <item>Rajapur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_patuakhali">
+        <item>Select Your upazilla</item>
+
+        <item>Bauphal</item>
+        <item>Dashmina</item>
+        <item>Galachipa</item>
+        <item>Kalapara</item>
+        <item>Mirzaganj</item>
+        <item>Patuakhali Sadar</item>
+        <item>Rangabali</item>
+        <item>Dumki</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_pirojpur">
+        <item>Select Your upazilla</item>
+
+        <item>Bhandaria</item>
+        <item>Kawkhali</item>
+        <item>Mathbaria</item>
+        <item>Nazirpur</item>
+        <item>Pirojpur Sadar</item>
+        <item>Nesarabad (Swarupkati)</item>
+        <item>Zianagar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_bandarban">
+        <item>Select Your upazilla</item>
+
+        <item>Ali Kadam</item>
+        <item>Bandarban Sadar</item>
+        <item>Lama</item>
+        <item>Naikhongchhari</item>
+        <item>Rowangchhari</item>
+        <item>Ruma</item>
+        <item>Thanchi</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_brahmanbaria">
+        <item>Select Your upazilla</item>
+
+        <item>Akhaura</item>
+        <item>Bancharampur</item>
+        <item>Brahmanbaria Sadar</item>
+        <item>Kasba</item>
+        <item>Nabinagar</item>
+        <item>Nasirnagar</item>
+        <item>Sarail</item>
+        <item>Ashuganj</item>
+        <item>Bijoynagar</item>
+
+
+    </string-array>
+
+
+    <string-array name="array_upazila_chandpur">
+        <item>Select Your upazilla</item>
+
+        <item>Chandpur Sadar</item>
+        <item>Faridganj</item>
+        <item>Haimchar</item>
+        <item>Haziganj</item>
+        <item>Kachua</item>
+        <item>Matlab Dakshin</item>
+        <item>Matlab Uttar</item>
+        <item>Shahrasti</item>
+
+
+    </string-array>
+
+
+    <string-array name="array_upazila_chittagong">
+        <item>Select Your upazilla</item>
+
+        <item>Anwara</item>
+        <item>Banshkhali</item>
+        <item>Boalkhali</item>
+        <item>Chandanaish</item>
+        <item>Fatikchhari</item>
+        <item>Hathazari</item>
+        <item>Karnaphuli</item>
+        <item>Lohagara</item>
+        <item>Mirsharai</item>
+        <item>Patiya</item>
+        <item>Rangunia</item>
+        <item>Raozan</item>
+        <item>Sandwip</item>
+        <item>Satkania</item>
+        <item>Sitakunda</item>
+        <item>Bandar Thana</item>
+        <item>Chandgaon Thana</item>
+        <item>Double Mooring Thana</item>
+        <item>Kotwali Thana</item>
+        <item>Pahartali Thana</item>
+        <item>Panchlaish Thana</item>
+        <item>Bhujpur Thana</item>
+
+    </string-array>
+
+    <string-array name="array_upazila_comilla">
+        <item>Select Your upazilla</item>
+
+        <item>Barura</item>
+        <item>Brahmanpara</item>
+        <item>Burichang</item>
+        <item>Chandina</item>
+        <item>Chauddagram</item>
+        <item>Daudkandi</item>
+        <item>Debidwar</item>
+        <item>Homna</item>
+        <item>Laksam</item>
+        <item>Muradnagar</item>
+        <item>Nangalkot</item>
+        <item>Cumilla Adarsha Sadar</item>
+        <item>Meghna</item>
+        <item>Titas</item>
+        <item>Monohargonj</item>
+        <item>Cumilla Sadar Dakshin</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_coxsbazar">
+        <item>Select Your upazilla</item>
+
+        <item>Chakaria</item>
+        <item>"Cox's Bazar Sadar</item>
+        <item>Kutubdia</item>
+        <item>Maheshkhali</item>
+        <item>Ramu</item>
+        <item>Teknaf</item>
+        <item>Ukhia</item>
+        <item>Pekua</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_feni">
+        <item>Select Your upazilla</item>
+
+        <item>Chhagalnaiya</item>
+        <item>"Daganbhuiyan</item>
+        <item>Feni Sadar</item>
+        <item>Parshuram</item>
+        <item>Sonagazi</item>
+        <item>Fulgazi</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_khagrachhari">
+        <item>Select Your upazilla</item>
+
+        <item>Dighinala</item>
+        <item>"Khagrachhari</item>
+        <item>Lakshmichhari</item>
+        <item>Mahalchhari</item>
+        <item>Manikchhari</item>
+        <item>Matiranga</item>
+        <item>Panchhari</item>
+        <item>Ramgarh</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_lakshmipur">
+        <item>Select Your upazilla</item>
+
+        <item>Lakshmipur Sadar</item>
+        <item>"Raipur</item>
+        <item>Ramganj</item>
+        <item>Ramgati</item>
+        <item>Kamalnagar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_noakhali">
+        <item>Select Your upazilla</item>
+
+        <item>Begumganj</item>
+        <item>"Noakhali Sadar</item>
+        <item>Chatkhil</item>
+        <item>Companiganj</item>
+        <item>Hatiya</item>
+        <item>Senbagh</item>
+        <item>Sonaimuri</item>
+        <item>Subarnachar</item>
+        <item>Kabirhat</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_rangamati">
+        <item>Select Your upazilla</item>
+
+        <item>Bagaichhari</item>
+        <item>"Barkal</item>
+        <item>Kawkhali (Betbunia)</item>
+        <item>Belaichhari</item>
+        <item>Kaptai</item>
+        <item>Juraichhari</item>
+        <item>Langadu</item>
+        <item>Naniyachar</item>
+        <item>Rangamati Sadar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_dhaka">
+        <item>Select Your upazilla</item>
+
+        <item>Dhamrai</item>
+        <item>Dohar</item>
+        <item>Keraniganj</item>
+        <item>Nawabganj</item>
+        <item>Savar</item>
+        <item>Tejgaon Circle</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_faridpur">
+        <item>Select Your upazilla</item>
+
+        <item>Alfadanga</item>
+        <item>Bhanga</item>
+        <item>Boalmari</item>
+        <item>Charbhadrasan</item>
+        <item>Faridpur Sadar</item>
+        <item>Madhukhali</item>
+        <item>Nagarkanda</item>
+        <item>Sadarpur</item>
+        <item>Saltha</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_gazipur">
+        <item>Select Your upazilla</item>
+
+        <item>Gazipur Sadar</item>
+        <item>Kaliakair</item>
+        <item>Kaliganj</item>
+        <item>Kapasia</item>
+        <item>Sreepur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_gopalganj">
+        <item>Select Your upazilla</item>
+
+        <item>Gopalganj Sadar</item>
+        <item>Kashiani</item>
+        <item>Kotalipara</item>
+        <item>Muksudpur</item>
+        <item>Tungipara</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_kishoreganj">
+        <item>Select Your upazilla</item>
+
+        <item>Kishoreganj  Sadar</item>
+        <item>Austagram</item>
+        <item>Bajitpur</item>
+        <item>Bhairab</item>
+        <item>Hossainpur</item>
+        <item>Itna</item>
+        <item>Karimganj</item>
+        <item>Katiadi</item>
+        <item>Kuliarchar</item>
+        <item>Mithamain</item>
+        <item>Nikli</item>
+        <item>Pakundia</item>
+
+
+    </string-array>
+
+
+    <string-array name="array_upazila_madaripur">
+        <item>Select Your upazilla</item>
+
+        <item>Rajoir</item>
+        <item>Madaripur Sadar</item>
+        <item>Kalkini</item>
+        <item>Shibchar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_manikganj">
+        <item>Select Your upazilla</item>
+
+        <item>Daulatpur</item>
+        <item>Manikgonj  Sadar</item>
+        <item>Ghior</item>
+        <item>Harirampur</item>
+        <item>Saturia</item>
+        <item>Shivalaya</item>
+        <item>Singair</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_munshiganj">
+        <item>Select Your upazilla</item>
+
+        <item>Gazaria</item>
+        <item>Lohajang</item>
+        <item>Munshiganj Sadar</item>
+        <item>Sirajdikhan</item>
+        <item>Sreenagar</item>
+        <item>Tongibari</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_narayanganj">
+        <item>Select Your upazilla</item>
+
+        <item>Araihazar</item>
+        <item>Bandar</item>
+        <item>Narayanganj Sadar</item>
+        <item>Rupganj</item>
+        <item>Sonargaon</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_narsingdi">
+        <item>Select Your upazilla</item>
+
+        <item>Narsingdi Sadar</item>
+        <item>Belabo</item>
+        <item>Monohardi</item>
+        <item>Palash</item>
+        <item>Raipura</item>
+        <item>Shibpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_rajbari">
+        <item>Select Your upazilla</item>
+
+        <item>Rajbari  Sadar</item>
+        <item>Baliakandi</item>
+        <item>Goalandaghat</item>
+        <item>Pangsha</item>
+        <item>Kalukhali</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_shariatpur">
+        <item>Select Your upazilla</item>
+
+        <item>Bhedarganj</item>
+        <item>Damudya</item>
+        <item>Damudya</item>
+        <item>Naria</item>
+        <item>Shariatpur Sadar</item>
+        <item>Zajira</item>
+        <item>Shakhipur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_tangail">
+        <item>Select Your upazilla</item>
+
+        <item>Gopalpur</item>
+        <item>Basail</item>
+        <item>Bhuapur</item>
+        <item>Delduar</item>
+        <item>Ghatail</item>
+        <item>Kalihati</item>
+        <item>Madhupur</item>
+        <item>Mirzapur</item>
+        <item>Nagarpur</item>
+        <item>Sakhipur</item>
+        <item>Dhanbari</item>
+        <item>Tangail Sadar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_bagherhat">
+        <item>Select Your upazilla</item>
+
+        <item>Bagerhat Sadar</item>
+        <item>Chitalmari</item>
+        <item>Fakirhat</item>
+        <item>Kachua</item>
+        <item>Mollahat</item>
+        <item>Mongla</item>
+        <item>Morrelganj</item>
+        <item>Rampal</item>
+        <item>Sarankhola</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_chuadanga">
+        <item>Select Your upazilla</item>
+
+        <item>Alamdanga</item>
+        <item>Chuadanga Sadar</item>
+        <item>Damurhuda</item>
+        <item>Jibannagar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_jessore">
+        <item>Select Your upazilla</item>
+
+        <item>Abhaynagar</item>
+        <item>Bagherpara</item>
+        <item>Chaugachha</item>
+        <item>Jhikargachha</item>
+        <item>Keshabpur</item>
+        <item>Jashore Sadar</item>
+        <item>Manirampur</item>
+        <item>Sharsha</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_jhenaidah">
+        <item>Select Your upazilla</item>
+
+        <item>Harinakunda</item>
+        <item>Jhenaidah Sadar</item>
+        <item>Kaliganj</item>
+        <item>Kotchandpur</item>
+        <item>Maheshpur</item>
+        <item>Shailkupa</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_khulna">
+        <item>Select Your upazilla</item>
+
+        <item>Batiaghata</item>
+        <item>Dacope</item>
+        <item>Dumuria</item>
+        <item>Dighalia</item>
+        <item>Koyra</item>
+        <item>Paikgachha</item>
+        <item>Phultala</item>
+        <item>Rupsha</item>
+        <item>Terokhada</item>
+        <item>Daulatpur Thana</item>
+        <item>Khalishpur Thana</item>
+        <item>Khan Jahan Ali Thana</item>
+        <item>Kotwali Thana</item>
+        <item>Sonadanga Thana</item>
+        <item>Harintana Thana</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_kustia">
+        <item>Select Your upazilla</item>
+
+        <item>Bheramara</item>
+        <item>Daulatpur</item>
+        <item>Khoksa</item>
+        <item>Kumarkhali</item>
+        <item>Kushtia Sadar</item>
+        <item>Mirpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_magura">
+        <item>Select Your upazilla</item>
+
+        <item>Magura Sadar</item>
+        <item>Mohammadpur</item>
+        <item>Shalikha</item>
+        <item>Sreepur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_meherpur">
+        <item>Select Your upazilla</item>
+
+        <item>Gangni</item>
+        <item>Meherpur Sadar</item>
+        <item>Mujibnagar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_narail">
+        <item>Select Your upazilla</item>
+
+        <item>Kalia</item>
+        <item>Lohagara</item>
+        <item>Narail Sadar</item>
+        <item>Naragati Thana</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_satkhira">
+        <item>Select Your upazilla</item>
+
+        <item>Assasuni</item>
+        <item>Debhata</item>
+        <item>Kalaroa</item>
+        <item>Kaliganj</item>
+        <item>Satkhira Sadar</item>
+        <item>Shyamnagar</item>
+        <item>Tala</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_jamalpur">
+        <item>Select Your upazilla</item>
+
+        <item>Baksiganj</item>
+        <item>Dewanganj</item>
+        <item>Islampur</item>
+        <item>Jamalpur Sadar</item>
+        <item>Madarganj</item>
+        <item>Melandaha</item>
+        <item>Sarishabari</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_mymensingh">
+        <item>Select Your upazilla</item>
+
+        <item>Trishal</item>
+        <item>Dhobaura</item>
+        <item>Fulbaria</item>
+        <item>Gaffargaon</item>
+        <item>Gauripur</item>
+        <item>Haluaghat</item>
+        <item>Ishwarganj</item>
+        <item>Mymensingh Sadar</item>
+        <item>Muktagachha</item>
+        <item>Nandail</item>
+        <item>Phulpur</item>
+        <item>Bhaluka</item>
+        <item>Tara Khanda</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_netrakona">
+        <item>Select Your upazilla</item>
+
+        <item>Atpara</item>
+        <item>Barhatta</item>
+        <item>Durgapur</item>
+        <item>Khaliajuri</item>
+        <item>Kalmakanda</item>
+        <item>Kendua</item>
+        <item>Madan</item>
+        <item>Mohanganj</item>
+        <item>Netrokona Sadar</item>
+        <item>Purbadhala</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_sherpur">
+        <item>Select Your upazilla</item>
+
+        <item>Jhenaigati</item>
+        <item>Nakla</item>
+        <item>Nalitabari</item>
+        <item>Sherpur Sadar</item>
+        <item>Sreebardi</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_bogra">
+        <item>Select Your upazilla</item>
+
+        <item>Adamdighi</item>
+        <item>Bogura Sadar</item>
+        <item>Dhunat</item>
+        <item>Dhupchanchia</item>
+        <item>Gabtali</item>
+        <item>Kahaloo</item>
+        <item>Nandigram</item>
+        <item>Sariakandi</item>
+        <item>Shajahanpur</item>
+        <item>Sherpur</item>
+        <item>Shibganj</item>
+        <item>Sonatola</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_chapainawabganj">
+        <item>Select Your upazilla</item>
+
+        <item>Bholahat</item>
+        <item>Gomastapur</item>
+        <item>Nachole</item>
+        <item>Nawabganj Sadar</item>
+        <item>Shibganj</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_joypurhat">
+        <item>Select Your upazilla</item>
+
+        <item>Akkelpur</item>
+        <item>Joypurhat Sadar</item>
+        <item>Kalai</item>
+        <item>Khetlal</item>
+        <item>Panchbibi</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_naogaon">
+        <item>Select Your upazilla</item>
+
+        <item>Atrai</item>
+        <item>Badalgachhi</item>
+        <item>Manda</item>
+        <item>Dhamoirhat</item>
+        <item>Mohadevpur</item>
+        <item>Naogaon Sadar</item>
+        <item>Niamatpur</item>
+        <item>Patnitala</item>
+        <item>Porsha</item>
+        <item>Raninagar</item>
+        <item>Sapahar</item>
+    </string-array>
+
+
+    <string-array name="array_upazila_natore">
+        <item>Select Your upazilla</item>
+        <item>Bagatipara</item>
+        <item>Baraigram</item>
+        <item>Gurudaspur</item>
+        <item>Lalpur</item>
+        <item>Natore Sadar</item>
+        <item>Singra</item>
+        <item>Naldanga</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_pabna">
+        <item>Select Your upazilla</item>
+
+        <item>Atgharia</item>
+        <item>Bera</item>
+        <item>Bhangura</item>
+        <item>Chatmohar</item>
+        <item>Faridpur</item>
+        <item>Ishwardi</item>
+        <item>Pabna Sadar</item>
+        <item>Santhia</item>
+        <item>Sujanagar</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_rajshahi">
+        <item>Select Your upazilla</item>
+
+        <item>Bagha</item>
+        <item>Bagmara</item>
+        <item>Charghat</item>
+        <item>Durgapur</item>
+        <item>Godagari</item>
+        <item>Mohanpur</item>
+        <item>Paba</item>
+        <item>Puthia</item>
+        <item>Tanore</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_sirajganj">
+        <item>Select Your upazilla</item>
+
+        <item>Belkuchi</item>
+        <item>Chauhali</item>
+        <item>Kamarkhanda</item>
+        <item>Kazipur</item>
+        <item>Raiganj</item>
+        <item>Shahjadpur</item>
+        <item>Sirajganj Sadar</item>
+        <item>Tarash</item>
+        <item>Ullahpara</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_dinajpur">
+        <item>Select Your upazilla</item>
+
+        <item>Birampur</item>
+        <item>Birganj</item>
+        <item>Biral</item>
+        <item>Bochaganj</item>
+        <item>Chirirbandar</item>
+        <item>Phulbari</item>
+        <item>Ghoraghat</item>
+        <item>Hakimpur</item>
+        <item>Kaharole</item>
+        <item>Khansama</item>
+        <item>Dinajpur Sadar</item>
+        <item>Nawabganj</item>
+        <item>Parbatipur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_gaibandha">
+        <item>Select Your upazilla</item>
+
+        <item>Phulchhari</item>
+        <item>Gaibandha Sadar</item>
+        <item>Gobindaganj</item>
+        <item>Palashbari</item>
+        <item>Sadullapur</item>
+        <item>Sughatta</item>
+        <item>Sundarganj</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_kurigram">
+        <item>Select Your upazilla</item>
+
+        <item>Bhurungamari</item>
+        <item>Char Rajibpur</item>
+        <item>Chilmari</item>
+        <item>Phulbari</item>
+        <item>Kurigram Sadar</item>
+        <item>Nageshwari</item>
+        <item>Rajarhat</item>
+        <item>Raomari</item>
+        <item>Ulipur</item>
+    </string-array>
+
+
+    <string-array name="array_upazila_lalmonirhat">
+        <item>Select Your upazilla</item>
+
+        <item>Aditmari</item>
+        <item>Hatibandha</item>
+        <item>Kaliganj</item>
+        <item>Lalmonirhat Sadar</item>
+        <item>Patgram</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_nilphamari">
+        <item>Select Your upazilla</item>
+
+        <item>Dimla</item>
+        <item>Domar</item>
+        <item>Jaldhaka</item>
+        <item>Kishoreganj</item>
+        <item>Nilphamari Sadar</item>
+        <item>Saidpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_panchagarh">
+        <item>Select Your upazilla</item>
+
+        <item>Atwari</item>
+        <item>Boda</item>
+        <item>Debiganj</item>
+        <item>Panchagarh Sadar</item>
+        <item>Tetulia</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_rangpur">
+        <item>Select Your upazilla</item>
+
+        <item>Badarganj</item>
+        <item>Gangachhara</item>
+        <item>Kaunia</item>
+        <item>Rangpur Sadar</item>
+        <item>Mithapukur</item>
+        <item>Pirgachha</item>
+        <item>Pirganj</item>
+        <item>Taraganj</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_thakurgaon">
+        <item>Select Your upazilla</item>
+
+        <item>Baliadangi</item>
+        <item>Haripur</item>
+        <item>Pirganj</item>
+        <item>Thakurgaon  Sadar</item>
+        <item>Ranisankail</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_habiganj">
+        <item>Select Your upazilla</item>
+
+        <item>Ajmiriganj</item>
+        <item>Bahubal</item>
+        <item>Baniyachong</item>
+        <item>Chunarughat</item>
+        <item>Habiganj Sadar</item>
+        <item>Lakhai</item>
+        <item>Madhabpur</item>
+        <item>Nabiganj</item>
+        <item>Sayestaganj</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_moulvibazar">
+        <item>Select Your upazilla</item>
+
+        <item>Barlekha</item>
+        <item>Juri</item>
+        <item>Kamalganj</item>
+        <item>Kulaura</item>
+        <item>Moulvibazar Sadar</item>
+        <item>Rajnagar</item>
+        <item>Sreemangal</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_sunamganj">
+        <item>Select Your upazilla</item>
+
+        <item>Bishwamvarpur</item>
+        <item>Chhatak</item>
+        <item>Dakshin Sunamganj</item>
+        <item>Derai</item>
+        <item>Dharamapasha</item>
+        <item>Dowarabazar</item>
+        <item>Jagannathpur</item>
+        <item>Jamalganj</item>
+        <item>Sullah</item>
+        <item>Sunamganj Sadar</item>
+        <item>Tahirpur</item>
+
+    </string-array>
+
+
+    <string-array name="array_upazila_sylhet">
+        <item>Select Your upazilla</item>
+        <item>Balaganj</item>
+        <item>Beanibazar</item>
+        <item>Bishwanath</item>
+        <item>Companigonj</item>
+        <item>Dakshin Surma</item>
+        <item>Fenchuganj</item>
+        <item>Golapganj</item>
+        <item>Gowainghat</item>
+        <item>Jaintiapur</item>
+        <item>Sylhet  Sadar</item>
+        <item>Kanaighat</item>
+        <item>Osmani Nagar</item>
+        <item>Zakiganj</item>
+
+    </string-array>
+    <string-array name="array_default_districts">
+        <item>Select Your District</item>
+    </string-array>
+    <string-array name="array_default_divisions">
+        <item>Select Your Division</item>
+    </string-array>
+    <string-array name="array_default_upazilas">
+        <item>Select Your Upazila</item>
+    </string-array>
+
+</resources>
