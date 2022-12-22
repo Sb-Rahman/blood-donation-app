@@ -9,6 +9,7 @@
     <color name="black">#FF000000</color>
     <color name="gray">#D0868181</color>
     <color name="why_gray">#D0BFBFBF</color>
+    <color name="whiteee">#BAE8DCDC</color>
     <color name="white">#FFFFFFFF</color>
     <color name="theme_color">#FF3B3B</color>
 </resources>
